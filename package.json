@@ -1,6 +1,6 @@
 {
   "name": "sexcore-build",
-  "version": "0.5.5",
+  "version": "0.5.51",
   "description": "A helper for common tasks to build sexcore modules'",
   "main": "index.js",
   "scripts": {
